@@ -1,11 +1,12 @@
-# FearRoom ![Screenshot (94)](https://github.com/Rezvision/Assignement_lightandSound/assets/147525543/72384fc8-5835-46ee-9bfe-a810565ebd8d)
+# FearRoom 
+![Screenshot (94)](https://github.com/Rezvision/Assignement_lightandSound/assets/147525543/72384fc8-5835-46ee-9bfe-a810565ebd8d)
 FearRoom 
 Overview
 FearRoom is a Unity project focused on creating an unsettling and immersive experience through the effective use of lighting and sound. The project aims to evoke fear and suspense in the player, making it suitable for horror game development or atmospheric experiences.
 
 Features
 1. Flashing Lights
-The FearRoom project employs a custom script for light sources, compatible with various light types such as point lights, spotlights, and directional lights. The script introduces flashing lights to the scene, creating an uncomfortable ambiance. This effect is versatile and can be easily adapted to different light sources, enhancing the overall unsettling atmosphere. Additionally, the same effect can be achieved through animations, providing flexibility in implementation.
+The FearRoom project employs a custom script for light sources, compatible with various light types such as point lights, spotlights, and directional lights. The script introduces flashing lights to the scene, creating an uncomfortable ambience. This effect is versatile and can be easily adapted to different light sources, enhancing the overall unsettling atmosphere. Additionally, the same effect can be achieved through animations, providing flexibility in implementation.
 2. Sound Immersion
 FearRoom enhances the immersive experience by incorporating carefully selected sound elements into the scene. The following sounds contribute to the overall atmosphere:
 
